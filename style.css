@@ -1,0 +1,62 @@
+.satauri1 {
+    width: 170px;
+    height: 32px;
+    color: black;
+    font-weight: 700px;
+    font-size: 24px;
+    padding-left: 45px;
+    padding-top: 38px;
+}
+.box2 {
+    width: 365px;
+    height: 606px;
+    border-radius: 50px;
+    background-color: #FDFDFD;
+    margin-top: 209px;
+    margin-left: 496px;
+    border-radius: 10px;
+    border: 1px solid #F3F3F3;
+}
+.surati1 {
+    width: 270px;
+    height: 190x;
+    border-radius: 10px;
+    margin-top: 38px;
+    margin-left: 45px;
+}
+.satauri2 {
+    width: 266px;
+    height: 42px;
+    font-weight: 400;
+    font-size: 21px;
+    margin-left: 51px;
+    margin-top: 3.72px;
+}
+.abzaci1 {
+    width: 397px;
+    height: 17px;
+    font-weight: 400;
+    font-size: 15px;
+    color: #D2D2D2;
+    margin-left: 51px;
+}
+.abzaci2 {
+    text-align: left;
+    margin-left: 51px;
+    width: 266px;
+    height: 101px;
+    font-weight: 400;
+    font-size: 15px;
+}
+.depisi {
+    color: #F1F1F1;
+    width: 266px;
+    height: 0px;
+    border: 1px solid #F1F1F1
+}
+.linki {
+    float: right;
+    padding-right: 46px;
+    padding-top: 19px;
+    text-decoration: none;
+}
